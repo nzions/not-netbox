@@ -9,4 +9,4 @@ is at https://github.com/netbox-community/go-netbox
 make changes in the mod branch  
 run update to pull the latest version, rename imports, and apply mods  
 
-good luck
+good luck!
